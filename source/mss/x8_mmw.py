@@ -21,7 +21,7 @@ from lib.utility import *
 
 _meta_ = {
     'mss': 'MMW Demo',
-    'dev': ('xWR18xx', 'xWR68xx',),
+    'dev': ('xWR18xx', 'xWR68xx', 'xWR64xx', ),
     'ver': ('03.04.00.03', '03.05.00.04',),
     'cli': 'mmwDemo:/>',
     'seq': b'\x02\x01\x04\x03\x06\x05\x08\x07',
